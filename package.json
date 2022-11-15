@@ -1,7 +1,7 @@
 {
   "name": "dummy-react-component-library",
-  "version": "1.0.0",
-  "description": "https://prateeksurana.me/blog/react-library-with-typescript/",
+  "version": "1.0.1",
+  "description": "This is not a library",
   "main": "./lib/cjs/index.js",
   "module": "./lib/esm/index.js",
   "types": "./lib/esm/index.d.ts",
@@ -18,8 +18,8 @@
   "author": "",
   "license": "ISC",
   "peerDependencies": {
-    "react": "^16.8.0",
-    "react-dom": "^16.8.0"
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "@types/react": "^18.0.25",
